@@ -9,6 +9,6 @@ For today's first mini project, scholars were prompted to create a mini "About M
 ## Day 2: Photo Gallery
 Scholars were given an introduction on styling using CSS and Flexboxes for responsive design on webpages. Their night hack is to make a photo gallery on any topic they were interested in. For my example, I made an Animal Crossing themed gallery!
 
-<iframe src="https://giphy.com/embed/TdtrpjRTTPZTouULhD" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TdtrpjRTTPZTouULhD">via GIPHY</a></p>
+[](https://media.giphy.com/media/TdtrpjRTTPZTouULhD/giphy.gif)
 
 
