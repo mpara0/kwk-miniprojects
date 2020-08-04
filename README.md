@@ -11,4 +11,9 @@ Scholars were given an introduction on styling using CSS and Flexboxes for respo
 
 ![](https://media.giphy.com/media/TdtrpjRTTPZTouULhD/giphy.gif)
 
+## Day 3 && 4: Javascript Fundamentals
+Scholars learned the fundamentals of Javascript alongside learning important programming concepts like arrays, boolean values, objects, and variable declarations. For these night hacks, they were prompted to complete some mini javascript exercises. 
+
+As for advanced concepts, they also are able to complete the "Javascript Extension Challenges" 
+Solution for some can be found under [this repository](https://github.com/mpara0/JS-Code-Challenges)
 
