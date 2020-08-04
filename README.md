@@ -3,3 +3,4 @@ Collection of mini projects completed as demos for current scholars. Source code
 
 ## Day 1: About Me Page 
 For today's first mini project, scholars were prompted to create a mini "About Me" page about a partner that included a photo, 3 facts, and a link to any site. Here is a small example of my page.
+<img align = "center" src = "https://github.com/mpara0/kwk-miniprojects/blob/master/day%201.png" width=190> </img>
